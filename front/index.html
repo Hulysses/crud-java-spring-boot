@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Cadastro</title>
+    </head>
+
+    <body>
+        
+        <div id="box">
+            <form action="post" id="form">
+                <h1>Cadastro</h1>
+                <input type="text" class="name" name="name" placeholder="Nome" >
+                <input type="email" class="email" name="email" placeholder="E-mail" >
+                <input type="password" class="password" name="password" placeholder="Senha" >
+                <input type="text" class="tel" name="tel" placeholder="Telefone">
+                <button>Cadastrar</button>
+            </form>
+        </div>
+
+        <div id="messages">
+            <div id="empty-field-message" class="hidden">Todos os campos são obrigatórios.</div>
+            <div id="success-message" class="hidden">Cadastro realizado com sucesso!</div>
+            <div id="email-error-message" class="hidden">E-mail duplicado. Por favor, insira um e-mail diferente.</div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+
+</html>
