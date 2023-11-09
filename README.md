@@ -7,7 +7,7 @@
 
 <br>
 
- <a href="https://github.com/Hulysses/crud-java-spring-boot/assets/124912812/2e8f1337-a04f-4bb8-a12b-4bb6403e6b56">Apresentação do projeto</a>
+https://github.com/Hulysses/crud-java-spring-boot/assets/124912812/ff7d8d14-2f9b-48fb-8b1b-fc5f7b782ef0
 
 ## 🚀 Tecnologias
 
