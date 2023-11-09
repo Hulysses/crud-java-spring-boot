@@ -7,6 +7,8 @@
 
 <br>
 
+https://github.com/Hulysses/crud-java-spring-boot/assets/124912812/ff7d8d14-2f9b-48fb-8b1b-fc5f7b782ef0
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
